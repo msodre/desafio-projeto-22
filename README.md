@@ -1,6 +1,7 @@
 # Desafio Python - Projeto 22
 
 Este repositório é o resultado do desafio proposto pela Projeto22, onde foi implementado o algoritimo de indice reverso utilizando a linguaguem Python. 
+Repositório do desafio : https://github.com/projeto22/challenge-python
 
 ## Execução
 
